@@ -1,0 +1,17 @@
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/ClaravineTest.deps.json
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/ClaravineTest.runtimeconfig.json
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/ClaravineTest.runtimeconfig.dev.json
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/ClaravineTest.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/ClaravineTest.pdb
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/Claravine.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/bin/Debug/netcoreapp2.1/Claravine.pdb
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.csprojAssemblyReference.cache
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.csproj.CoreCompileInputs.cache
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.AssemblyInfoInputs.cache
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.AssemblyInfo.cs
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.csproj.CopyComplete
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.dll
+/Users/vernkofford/Projects/Claravine/ClaravineTest/obj/Debug/netcoreapp2.1/ClaravineTest.pdb

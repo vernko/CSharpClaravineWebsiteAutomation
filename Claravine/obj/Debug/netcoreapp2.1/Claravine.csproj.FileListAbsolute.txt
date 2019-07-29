@@ -1,0 +1,9 @@
+/Users/vernkofford/Projects/Claravine/Claravine/bin/Debug/netcoreapp2.1/Claravine.deps.json
+/Users/vernkofford/Projects/Claravine/Claravine/bin/Debug/netcoreapp2.1/Claravine.dll
+/Users/vernkofford/Projects/Claravine/Claravine/bin/Debug/netcoreapp2.1/Claravine.pdb
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.csprojAssemblyReference.cache
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.csproj.CoreCompileInputs.cache
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.AssemblyInfoInputs.cache
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.AssemblyInfo.cs
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.dll
+/Users/vernkofford/Projects/Claravine/Claravine/obj/Debug/netcoreapp2.1/Claravine.pdb

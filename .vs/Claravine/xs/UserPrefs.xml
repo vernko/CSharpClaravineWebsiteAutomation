@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{790C48A8-BD4B-485C-A35E-9FE217845B60}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClaravineTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClaravineTest/Tests.cs">
+    <Files>
+      <File FileName="ClaravineTest/Tests.cs" Line="33" Column="38" />
+      <File FileName="Claravine/Pages/ClaravineHomePage.cs" Line="113" Column="92" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
